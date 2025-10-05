@@ -1,24 +1,33 @@
+<p align="middle">
+<img align="center" alt="Coding" width="650" src="https://github.com/HarshbirSingh7/HarshbirSingh7/blob/main/photo.gif">
+</p>
+<h1 align="center">Hi 👋, I'm Harshbir Singh</h1>
+<h3 align="center">A passionate developer from India</h3>
 
-[//]: # "## 🌐 Socials:"
-[//]: # "[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/harshbir.007) "
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=flat&logo=ea&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=flat&logo=nVIDIA&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=HarshbirSingh7&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=HarshbirSingh7&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshbirSingh7&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=HarshbirSingh7&theme=dark&no-frame=true&no-bg=true&margin-w=4)
+<p align="middle"> <img src="https://komarev.com/ghpvc/?username=HarshbirSingh7&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="HarshbirSingh7" /> </p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=HarshbirSingh7&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=HarshbirSingh7&icon=3&color=0)](https://visitcount.itsvg.in)
+🔭 I’m currently at **GNDEC**
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+🌱 I’m currently learning **C++**
+
+📫 How to reach me **harshbirsingh700@gmail.com**
+
+⚡ Fun fact **I am always coding with music**
+
+
+<br>
+<p align="middle">
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=HarshbirSingh7&theme=onestar&no-frame=false&no-bg=true&margin-w=9&margin-h=9"></p>
+<p align="middle">
+<img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark">
+</p>
+<p align="middle">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshbirSingh7&theme=dark" alt="HarshbirSingh7" /></p>
+<p align="middle">
+<img src="https://github-readme-stats.vercel.app/api?username=HarshbirSingh7&show_icons=true&theme=dark&title_color=ffffff&text_color=09ecc6&hide_border=true&locale=en" alt="HarshbirSingh7" /></p>
+
+<p align="middle"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=HarshbirSingh7&show_icons=true&theme=dark&title_color=ffffff&text_color=09ecc4&hide_border=true&locale=en&layout=compact" alt="harsh-python" /> </p>
