@@ -30,4 +30,4 @@
 <p align="middle">
 <img src="https://github-readme-stats.vercel.app/api?username=HarshbirSingh7&show_icons=true&theme=dark&title_color=ffffff&text_color=09ecc6&hide_border=true&locale=en" alt="HarshbirSingh7" /></p>
 
-<p align="middle"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=HarshbirSingh7&show_icons=true&theme=dark&title_color=ffffff&text_color=09ecc4&hide_border=true&locale=en&layout=compact" alt="harsh-python" /> </p>
+<p align="middle"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=HarshbirSingh7&show_icons=true&theme=dark&title_color=ffffff&text_color=09ecc4&hide_border=true&locale=en&layout=donut" alt="harsh-python" /> </p>
